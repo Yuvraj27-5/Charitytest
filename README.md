@@ -23,7 +23,7 @@
 * A block is created, when the user mines all the transactions updates.
 
 
-### YouTube Video
+###  Video
 
 <div align="center"> <a href="https://drive.google.com/file/d/1dwAyBA1QQ_Yo5aP2TzFGXPIhz3c3lQxB/view?usp=drive_link"><img src="https://drive.google.com/file/d/1dwAyBA1QQ_Yo5aP2TzFGXPIhz3c3lQxB/view?usp=drive_link" width="30%"></a> <br> <a href="https://drive.google.com/file/d/1dwAyBA1QQ_Yo5aP2TzFGXPIhz3c3lQxB/view?usp=drive_link">Demonstration Video</a></div>
 <br><br>
@@ -46,5 +46,6 @@
 	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 	See the License for the specific language governing permissions and
 	limitations under the License.
+
 
 
